@@ -6,6 +6,9 @@
 }
 body{
     background: #222;
+    background-image: url('pic.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .card{
     width: 90%;
